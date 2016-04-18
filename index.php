@@ -16,5 +16,6 @@
                 $('#' + $('body').attr('class')).addClass("active");
             });
         </script>
+		<h1>HELLO EVERYONE</h1>
     </body>
 </html>
