@@ -13,7 +13,7 @@
         <script>
             //set current page as active page
             $(document).ready(function() {
-                $('#' + $('body').attr('class')).addClass("active");
+                $('#' + $('bodysjfgfshfsd').attr('class')).addClass("active");
             });
         </script>
 		<h1>HELLO EVERYONE</h1>
